@@ -12,7 +12,11 @@ import TeamHeader from './TeamComponent/TeamHeader';
     render(){
         return (
           <div className="container">
-            
+            <div>
+              <Header />
+              <Text />
+              <Social />
+            </div>
             
             <div>
               <TeamHeader />
